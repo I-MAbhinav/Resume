@@ -36,7 +36,10 @@ body {
     color: #cbd5e1;
     margin-bottom: 25px;
 }
-
+.Button {
+  padding: 15px 30px; 
+  font-size: 16px; 
+}
 .sidebar h2 {
     font-size: 16px;
     margin: 20px 0 10px;
@@ -103,4 +106,5 @@ body {
     .content {
         width: 100%;
     }
+
 }
